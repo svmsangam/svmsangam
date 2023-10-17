@@ -3,17 +3,15 @@
 <p align="right"> <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="programmer coding gif" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svmsangam" alt="svmsangam" /></a> </p>
 
-- 🔭 I’m currently working on [HRMS](https://github.com/makalu-software)
+- 🔭 I’m currently working on [Nrestro](https://nrestro.com/)
 
-- 🌱 I’m currently learning **Sping Boot, Grails, Hibernate, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/svmsangam](https://github.com/svmsangam)
 
-- 💬 Ask me about **Java, Javascript, Hibernate, Laravel, PostgreSQL, MySQL**
+- 💬 Ask me about **Java, Javascript, Hibernate, PHP (Laravel), PostgreSQL, MySQL**
 
 - 📫 How to reach me **sbmsangam786@gmail.com**
 
-- ⚡ Fun fact **I am awesome.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
