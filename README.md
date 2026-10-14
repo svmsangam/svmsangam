@@ -1,29 +1,37 @@
-<h1 align="center">Hi 👋, I'm Subham Sangam</h1>
-<h3 align="center">A passionate backend developer from Nepal.</h3>
-<p align="right"> <img src="https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif" alt="programmer coding gif" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svmsangam" alt="svmsangam" /></a> </p>
+# Hi, I'm Subham Sangam
 
-- 🔭 I’m currently working on [Nrestro](https://nrestro.com/)
+Backend engineer from Nepal with 3+ years of experience, mostly in Java and Spring Boot. I build REST APIs, work a lot with databases, and care about tests and about knowing why something broke. Lately I've been learning and building in Go.
 
+## What I work with
 
-- 👨‍💻 All of my projects are available at [https://github.com/svmsangam](https://github.com/svmsangam)
+- **Languages:** Java, Go, Groovy
+- **Frameworks:** Spring Boot, Spring Security, Grails
+- **Databases:** PostgreSQL, MySQL, Elasticsearch, Redis
+- **Testing:** JUnit, Testcontainers, k6
+- **Cloud and tools:** AWS (Lambda, SQS, CloudWatch), Docker, Git, Liquibase, Keycloak, Kibana
+- **Learning and side projects:** Kafka, gRPC / Protocol Buffers, Prometheus, Grafana
 
-- 💬 Ask me about **Java, Javascript, Hibernate, PHP (Laravel), PostgreSQL, MySQL**
+## Professional work
 
-- 📫 How to reach me **sbmsangam786@gmail.com**
+- **Healthcare analytics platform** - HIPAA-compliant SaaS platform on Java and Spring Boot REST APIs. Reworked the metrics calculation logic with the Strategy pattern for client-specific customization, handled Elasticsearch querying of high-volume data, moved Redis from a single node to master-replica, and improved monitoring with CloudWatch and Kibana. Wrote JUnit and Testcontainers tests and did root cause analysis on production issues.
+- **Restaurant management system** - Built from scratch with Spring Boot and MySQL/PostgreSQL. Secured it with OAuth2/OIDC, added a token-bucket rate limiter with Bucket4j, and built analytics dashboards on tuned SQL queries.
+- **HR management system** - Designed the PostgreSQL schema using Spring Boot transaction management, index tuning and Liquibase migrations. Handled authentication and authorization with Keycloak (OAuth2, RBAC, SSO).
+- **HR data sync and ID card automation** - AWS Lambda functions that fetch and sync HR data and generate digital ID cards automatically.
+- **Task management system (internship)** - Spring Boot and MySQL modules for task creation and proof submission.
 
+## Personal projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/subham-sangam-863a28219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subham-sangam-863a28219/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15426481/shubham-sangam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15426481/shubham-sangam" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sbmsangam786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sbmsangam786" height="30" width="40" /></a>
-<a href="https://twitter.com/sbmsangam?t=qhzqj_n7sqgtowkdz0bg8w&s=07&fbclid=iwar139ezxld3vbk3rf6bckrmpw-rweqnp_2jhcmsna2jnz47uzsi7opfp7vc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sbmsangam?t=qhzqj_n7sqgtowkdz0bg8w&s=07&fbclid=iwar139ezxld3vbk3rf6bckrmpw-rweqnp_2jhcmsna2jnz47uzsi7opfp7vc" height="30" width="40" /></a>
-</p>
+- [job-queue-worker](https://github.com/svmsangam/job-queue-worker) - Go job queue using Kafka and gRPC. Worker pool, retries with backoff, dead-letter topic, Prometheus metrics and a k6 load test.
+- [url-shortner](https://github.com/svmsangam/url-shortner) - URL shortener in Go with Redis and Cassandra. Base62 short codes from an atomic counter, with input validation and unit tests.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+More of my work is on my [GitHub profile](https://github.com/svmsangam).
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=svmsangam&show_icons=true&locale=en&layout=compact" alt="svmsangam" /></p>
+## Currently
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=svmsangam&show_icons=true&locale=en" alt="svmsangam" /></p>
+- Building more in Go
+- Looking for backend roles
+
+## Get in touch
+
+- Email: sbmsangam786@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/subham-sangam-863a28219/)
